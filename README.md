@@ -96,8 +96,6 @@ Based on the investigation:
 
 Before replacing the battery:
 
-Before replacing the battery:
-
 - Identified the exact Dell XPS 13 9310 battery model
 - Researched compatible replacement batteries
 - Chose to source the replacement battery directly from Dell
